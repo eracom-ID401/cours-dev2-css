@@ -37,7 +37,7 @@ Le cours est structuré en 5 chapitres.
 
 CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions ont révolutionné la manière de penser les mises en page CSS (et ont rendu obsolètes tous les livres écrits auparavant). Nous allons étudier quelques unes des nouveautés les plus significatives: **Grid Layout** (module de mise en page), et les unités **Minmax** et **Clamp** (qui permettent de nouvelles approches du responsive).
 
-- [Unités et Clamp](clamp.html) (2 février)
+- **[Unités et Clamp](units.html)** (2 février)
 - [CSS Grid Layout](grid-layout.html) (9 février)
 - [Grid Layout avancé](grid-advanced.html) (16 février)
 
