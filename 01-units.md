@@ -35,12 +35,14 @@ Exemple d'application : [https://codepen.io/eracom/pen/VwrarYa](https://codepen.
 
 ## Challenge No 2
 
-Apportez à votre site web les améliorations suivantes:
+Apportez à votre site web des améliorations.
 
-En appliquant les sujets vus aujourd'hui, donnez une hauteur minmum au header.
+Améliorations suggérées:
+
+- Donnez une hauteur minimum au header.
 - Centrez le titre à l'intérieur du header.
 - Alignez la liste avec Flexbox
-- Produisez une typographie "responsive"
+- Produisez une typographie "responsive" avec clamp()
 
 
 ## Ne pas oublier
@@ -62,4 +64,5 @@ Pour rédiger votre documentation personnelle, vous pouvez utiliser l'un des log
 
 ## Ressources
 
-- [https://cours-web.ch/css/units.html](https://cours-web.ch/css/units.html)
+- Documentation [Unités CSS](https://cours-web.ch/css/units.html)
+- La spécification W3C: [CSS Values and Units Module Level 4](https://www.w3.org/TR/css-values-4/)
