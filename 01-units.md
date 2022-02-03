@@ -23,7 +23,6 @@ Thèmes à traiter par binômes:
 Ce qui est attendu de vous:
 
 - Un thème vous est attribué. Cherchez comment cela fonctionne, et comment utiliser cet élément pour améliorer votre site web.
-- Ecrivez une explication et postez-la sur Teams.
 
 Exemple d'application : [https://codepen.io/eracom/pen/VwrarYa](https://codepen.io/eracom/pen/VwrarYa)
 
@@ -65,4 +64,5 @@ Pour rédiger votre documentation personnelle, vous pouvez utiliser l'un des log
 ## Ressources
 
 - Documentation [Unités CSS](https://cours-web.ch/css/units.html)
-- La spécification W3C: [CSS Values and Units Module Level 4](https://www.w3.org/TR/css-values-4/)
+- La spécification W3C: [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
+- Documentation MDN : [Valeurs et unités CSS](https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/Values_and_units)
