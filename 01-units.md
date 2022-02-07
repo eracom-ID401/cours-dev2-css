@@ -17,14 +17,36 @@ Thèmes à traiter par binômes:
 - Unités typographiques (em, ex, ch, rem)
 - Unités relatives au viewport (vw, vh, vmin, vmax)
 - Fonction CSS : calc()
-- Fonctions CSS : min(), max(), clamp()
+- [Fonctions CSS : min(), max(), clamp()](clamp.html)
 - Variables CSS
 
 Ce qui est attendu de vous:
 
 - Un thème vous est attribué. Cherchez comment cela fonctionne, et comment utiliser cet élément pour améliorer votre site web.
 
-Exemple d'application : [https://codepen.io/eracom/pen/VwrarYa](https://codepen.io/eracom/pen/VwrarYa)
+### L'unité pourcentage (%)
+
+Exemple: [https://codepen.io/eracom/pen/YzEWPzE](https://codepen.io/eracom/pen/YzEWPzE?editors=1100)
+
+Référence MDN: [https://developer.mozilla.org/fr/docs/Web/CSS/percentage](https://developer.mozilla.org/fr/docs/Web/CSS/percentage)
+
+⚠️ **À retenir:** pour les longueurs, fonctionne en horizontal, mais pas en vertical.
+
+### Les unités typographiques (em, ex, ch, rem)
+
+Exemple: [https://codepen.io/eracom/pen/GROqpwO](https://codepen.io/eracom/pen/GROqpwO?editors=1000)
+
+⚠️ **À retenir:** le fonctionnement de `em` et `rem`, unités fréquemment utilisées.
+
+### Les unités relatives au viewport (vw, vh, vmin, vmax)
+
+Exemple [https://codepen.io/eracom/pen/LYOZQVB](https://codepen.io/eracom/pen/LYOZQVB?editors=1100)
+
+- Un article d'Ahmad Shadeed: [https://ishadeed.com/article/viewport-units/](https://ishadeed.com/article/viewport-units/), qui donne des exemples d'application.
+
+### Exemple complet:
+
+Un exemple qui combine toutes ces fonctionnalités : [https://codepen.io/eracom/pen/VwrarYa](https://codepen.io/eracom/pen/VwrarYa)
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="VwrarYa" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/eracom/pen/VwrarYa">
@@ -46,20 +68,22 @@ Améliorations suggérées:
 
 ## Ne pas oublier
 
-Votre documentation personnelle 
+Votre documentation personnelle:
 
-- Qu'avez-vous appris aujourd'hui ?
-- Référence unités CSS
-- Référence Flexbox
+- Noter ce que vous avez appris aujourd'hui.
+- Noter les références qui vous ont aidé.
 
-Pour rédiger votre documentation personnelle, vous pouvez utiliser l'un des logiciels suivants:
+Vous pouvez utiliser l'un des logiciels suivants:
 
 - [Notion](https://www.notion.so/)
-- Bear
-- Apple Notes
+- [Bear](https://bear.app/)
+- [Craft](https://www.craft.do/)
 - [Google Keep](https://keep.google.com/)
 - [Google Docs](https://docs.google.com/)
+- Apple Notes
 - [Simplenote](https://app.simplenote.com/)
+
+⚠️ Votre documentation sera vérifiée et comptera pour le test du 9 mars.
 
 ## Ressources
 
