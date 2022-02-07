@@ -14,6 +14,7 @@ Agenda du cours:
 | 09 fév  | Grid Layout 1/2   |                   |
 | 16 fév  | Grid Layout 2/2   |                   |
 |         | Relâches          |                   |
+|         | Workshop          |                   |
 | 09 mars | Evaluation #1     |                   |
 | 16 mars | GIT 1/2           |                   |
 | 23 mars | GIT 2/2           |                   |
