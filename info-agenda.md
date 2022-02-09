@@ -18,17 +18,17 @@ Agenda du cours:
 | 09 mars | Evaluation #1     |                   |
 | 16 mars | GIT 1/2           |                   |
 | 23 mars | GIT 2/2           |                   |
-| 30 mars | Audio / vidéo     |  Chiara, Maya   |
-| 06 avr  | SVG               |  Maxim, Julien  |
-| 13 avr  | Evaluation #2     |                   |
+| 30 mars | A11Y              |  Chiara, Maya     |
+| 06 avr  | ---               |                   |
+| 13 avr  | Input Forms       |  Elio, Thomas     |
 |         | Vacances          |                   |
-| 04 mai  | A11Y              |  Elio, Thomas   |
-| 11 mai  | Input Forms       | Reger, Nina     |
-| 18 mai  | Generated Content |  Léo, Besim     |
+| 04 mai  | Evaluation #2     |                   |
+| 11 mai  | Audio / vidéo     |  Reger, Nina      |
+| 18 mai  | Generated Content |  Léo, Besim       |
 | 25 mai  | CSS Transforms    |  Jérémie, Alice   |
-| 01 juin | Evaluation #3     |                   |
-| 08 juin | CSS Animations    |  Ella, Valentin   |
-| 15 juin | CSS Shapes        |                   |
+| 01 juin | CSS Animations    |                   |
+| 08 juin | Evaluation #3     |  Ella, Valentin   |
+| 15 juin | CSS Shapes        |  Maxim, Julien    |
 | 22 juin | Debrief           |                   |
 
 
