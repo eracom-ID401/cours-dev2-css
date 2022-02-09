@@ -47,6 +47,12 @@ Ressources d'apprentissage:
 - [CSS Grid Layout](https://www.alsacreations.com/article/lire/1388-CSS3-Grid-Layout.html) expliqué par Raphaël Goetter
 - [CSS Grid Layout sur MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 
+Un jeu pour apprendre Grid Layout:
+
+- [Grid Garden](https://cssgridgarden.com/#fr)
+
+![](img/cssgrid-concept.png)
+
 Ressources techniques:
 
 - [La spécification du W3C](https://www.w3.org/TR/css-grid-1/)
