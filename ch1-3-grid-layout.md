@@ -51,7 +51,7 @@ Un jeu pour apprendre Grid Layout:
 
 - [Grid Garden](https://cssgridgarden.com/#fr)
 
-![](img/cssgrid-concept.png)
+![](img/CSS-grid-garden.png)
 
 Ressources techniques:
 
