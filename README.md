@@ -28,10 +28,6 @@ Au passage, vous apprendrez à utiliser un outil devenu incontournable dans les 
 
 Le cours est structuré en 5 chapitres.
 
-### Intro : Standards
-
-- [CSS et standards](standards.html) (26 janvier)
-
 
 ### Chapitre 1 : The New Layout
 
@@ -41,7 +37,7 @@ CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions
 - [CSS Grid Layout](grid-layout.html) (9 février)
 - [Grid Layout avancé](grid-advanced.html) (16 février)
 
-Le 9 mars aura lieu une première évaluation.
+Le 9 mars aura lieu la première évaluation.
 
 ### Chapitre 2 : GIT
 
@@ -50,20 +46,19 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 - GIT : Introduction (16 mars)
 - GIT : Collaborer avec Git (23 mars)
 
-
-### Chapitre 3 : Médias
-
-- [Audio et Video](audio-video.html) (30 mars)
-- SVG, format vectoriel du web (6 avril)
-
-Le 13 avril aura lieu la deuxième évaluation.
-
-### Chapitre 4 : A11Y
+### Chapitre 3 : A11Y
 
 Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre les interactions en toutes circonstances.
 
-- [A11Y](a11y.html) (4 mai)
-- [Input Forms](input-forms.html) (11 mai)
+- A11Y (30 mars)
+- Input Forms (13 avril)
+
+Le 13 avril aura lieu la deuxième évaluation.
+
+### Chapitre 4 : Médias
+
+- Audio et Video (30 mars)
+- SVG, format vectoriel du web (6 avril)
 
 ### Chapitre 5 : la magie du CSS
 
