@@ -7,7 +7,7 @@ robots: noindex, nofollow
 # menu 
 chapters:
  - title: Cours Dev 2
-   url: https://eracom-id401.github.io/cours-dev2-css/
+   url: https://id401.ch/cours-dev2-css/
  - title: Référence CSS
    url: https://cours-web.ch/css/
 # - title: Infos IMD

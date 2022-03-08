@@ -6,7 +6,7 @@ Classe: ID401
 Acronyme cours: EEDEV  
 Catégorie: Elaboration du design  
 Enseignant: Manuel Schmalstieg  
-Lien: [https://eracom-id401.github.io/cours-dev2-css/](https://eracom-id401.github.io/cours-dev2-css/)
+Lien: [https://id401.ch/cours-dev2-css/](https://id401.ch/cours-dev2-css/)
 
 ## Introduction
 
@@ -64,12 +64,12 @@ Le 13 avril aura lieu la deuxième évaluation.
 
 Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons des modules CSS qui ont pour rôle d'étendre les possibilités créatives: 
 
-- [Generated Content](generated-content.html) (18 mai)
-- [CSS Transforms](css-transforms.html) (25 mai)
-- [CSS Animations]() (8 juin)
-- [CSS Shapes](css-shapes.html) (15 juin)
+- Generated Content (18 mai)
+- CSS Transforms (25 mai)
+- CSS Animations (8 juin)
+- CSS Shapes (15 juin)
 
-Le 1er juin aura lieu la troisième évaluation.
+Le 8 juin aura lieu la troisième évaluation.
 
 ## Evaluations
 
