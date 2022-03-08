@@ -10,16 +10,16 @@ Trois évaluations seront réalisées au courant du semestre. Chaque évaluation
 - Un **Test théorique**, qui reprend les questions des quiz de révision hebdomadaires sur Podsie.  (1/3)
 - **Tenir une documentation personnelle** (une page avec des liens et exemples de code, sur Replit, Codepen, etc).  (1/3)
 
-## Les challenges
+## 1) Les challenges
 
 Un challenge peut être "réalisé" ou "non-réalisé", sans nuance qualitative. Chaque challenge réalisé donne un point.
 
-## Test théorique
+## 2) Test théorique
 
 Ce test reprend certaines questions des quiz de révision publiés chaque semaine sur [Podsie](podsie.html).
 
 
-## Documentation personnelle
+## 3) Documentation personnelle
 
 Un journal de bord personnel, dans lequel vous collectez les liens des Challenges, des exemples de code, des questions que vous vous posez. Vous devez m'envoyer cette documentation (ou un lien qui donne accès), par la messagerie Teams. Si vous utilisez Notion, veillez à [activer le partage public du document](img/share-notion.gif) ("share to web").
 
