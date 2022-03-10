@@ -27,14 +27,14 @@ Un journal de bord personnel, dans lequel vous collectez les liens des Challenge
 
 ## Calcul de la note
 
-Lors de l'évaluation du 9 mars 2022, le calcul se faut sur 30 points (12 pour les challenges, 10 pour le test théorique, 8 pour la documentation).
+Lors de l'évaluation du 9 mars 2022, le calcul se fait sur 32 points (12 pour les challenges, 12 pour le test théorique, 8 pour la documentation).
 
 | Points obtenus      | Note |
 |:------------------- |:---- |
-| 29-30               | 6    |
-| 26-28               | 5,5  |
-| 23-25               | 5    |
-| 20-22               | 4,5  |
-| 17-19               | 4    |
-| 14-16               | 3,5  |
-| 11-13               | 3    |
+| 31-32               | 6    |
+| 28-30               | 5,5  |
+| 24-27               | 5    |
+| 21-23               | 4,5  |
+| 18-20               | 4    |
+| 15-17               | 3,5  |
+| 12-14               | 3    |
