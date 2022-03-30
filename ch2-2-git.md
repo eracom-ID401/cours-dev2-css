@@ -42,8 +42,6 @@ Le challenge 5, "GitHub Issues", demande de créer deux "Issues" décrivant des 
 > Par la suite, l'une de ces issues sera résolue par vous-même, l'autre par l'un-e de vos camarades.
 > La résolution, via une *Pull Request*, fera l'objet du Challenge #6.
 
-
-
 ## Questions GIT sur Podsie
 
 Un assignment a été créé, "[Git Basics](https://student.podsie.org/assignments/4673)" avec cinq questions sur Git.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unités CSS
+title: Unités CSS 📐
 permalink: units.html
 ---
 
@@ -54,7 +54,7 @@ Un exemple qui combine toutes ces fonctionnalités : [https://codepen.io/eracom/
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-## Challenge No 2
+## Challenge N° 2
 
 Apportez à votre site web des améliorations.
 

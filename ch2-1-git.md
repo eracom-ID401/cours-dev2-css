@@ -14,24 +14,24 @@ Git est un logiciel de gestion de versions décentralisé. C'est un puissant out
 
 ### D'ou vient GIT
 
-Git a été créé en 2005 par [Linus Torvalds](https://fr.wikipedia.org/wiki/Linus_Torvalds) (le créateur de Linux).
+Git a été créé en 2005 par [Linus Torvalds](https://fr.wikipedia.org/wiki/Linus_Torvalds) (le créateur de Linux 🐧).
 
 ### Que signifie le mot Git ?
 
-Selon Wikipédia: « quand on lui a demandé pourquoi il avait appelé son logiciel “git”, qui est à peu près l'équivalent de “connard” en argot britannique, Linus Torvalds a répondu “je ne suis qu'un sale égocentrique, donc j'appelle tous mes projets d'après ma propre personne. D'abord Linux, puis Git.” ».
+Selon Wikipédia 🌐: « quand on lui a demandé pourquoi il avait appelé son logiciel “git”, qui est à peu près l'équivalent de “connard” en argot britannique, Linus Torvalds a répondu “je ne suis qu'un sale égocentrique, donc j'appelle tous mes projets d'après ma propre personne. D'abord Linux, puis Git.” ».
 
 ### À quoi sert Git ?
 
-- Permet de synchroniser un projet entre plusieurs collaborateurs. 
-- Permet de fusionner des modifications de plusieurs personnes.
-- Offre un historique précis de toutes les modifications d'un projet. On peut revenir facilement à un état précédent.
-- Aide à la collaboration.
+- Permet de **synchroniser** un projet entre plusieurs collaborateurs. 
+- Permet de **fusionner** des modifications de plusieurs personnes.
+- Offre un **historique** précis de toutes les modifications d'un projet. On peut revenir facilement à un état précédent.
+- Aide à la **collaboration** 🤝.
 
 Git a été inventé pour gérer des projets informatiques – du code. Mais ses avantages ont aussi été utilisés pour :
 
-- écrire de la documentation
-- gérer des documents légaux comme [les textes de loi](http://bundestag.github.io/gesetze/) du gouvernement d'Allemagne
-- des données médicales, comme p.ex. [les données Covid](https://github.com/openZH/covid_19) (direction de santé du canton de Zurich)
+- écrire de la documentation.
+- gérer des documents légaux comme [les textes de loi](http://bundestag.github.io/gesetze/) du gouvernement d'Allemagne.
+- des données médicales, comme p.ex. [les données Covid](https://github.com/openZH/covid_19) (direction de santé du canton de Zurich 🏥).
 
 #### Exemples de ce que Git permet d'éviter
 
@@ -55,21 +55,21 @@ Git est un logiciel pouvant fonctionner en ligne de commande, on lui "parle" en 
 
 Le principe: 
 
-1. En utilisant des commandes Git, on enregistre des "snapshots" qui conservent l'état du projet à un point précis.
+1. En utilisant des commandes Git, on enregistre des "snapshots" 📸 qui conservent l'état du projet à un point précis.
 2. On synchronise les modifications locales avec un serveur distant. Git s'occupe de fusionner les modifications.
 
 ### La notion de commit
 
 La commande **git commit** est centrale dans Git: c'est cette commande qui crée un nouvel "instantané" de l'état de votre projet, dans son intégralité. 
 
-Comme le dit David Demaree dans *Git for Humans*: 
+Comme le dit David Demaree dans *Git for Humans* 📕 : 
 
 - Un commit enregistre les modifications apportées aux fichiers figurant dans la base de données de Git: il indique par exemple qu'un fichier est passé de la version A à la version B.
 - Chaque commit est autonome: il ne référence pas seulement ce qui a changé, mais aussi tout ce qui compose l'état de votre projet à un moment donné.
 
 ### Les états des fichiers
 
-Le livre "*Pro Git*" donne une bonne explication des "trois états" dans lesquels peuvent se trouver les fichiers:
+Le livre "*Pro Git*" 📕 donne une bonne explication des "trois états" dans lesquels peuvent se trouver les fichiers:
 
 Git gère **trois états** dans lesquels les fichiers peuvent résider : `modifié`, `indexé` et `validé`.
 
@@ -98,7 +98,7 @@ L’utilisation standard de Git se passe comme suit :
 
 ## Le Challenge #4
 
-Publier votre site sur Github, dans l'organisation ID402. Pour cela:
+Publier votre site sur Github, dans l'organisation ID401. Pour cela:
 
 1. Créez un utilisateur sur Github.
 2. Rejoignez l'organisation eracom-ID402: [https://github.com/eracom-id402](https://github.com/eracom-id402)
