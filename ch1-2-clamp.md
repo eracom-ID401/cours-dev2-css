@@ -1,6 +1,6 @@
 ---
 layout: page
-title: min, max, et clamp
+title: min, max, et clamp 🗜️
 permalink: clamp.html
 ---
 
@@ -18,7 +18,7 @@ width: min(50%, 400px);
 width: max(50%, 400px);
 ```
 
-### La fonction clamp()
+### La fonction clamp() 🗜️
 
 Ces fonctions sont utiles, mais on voudra souvent limiter la taille minimale *et* maximale *en même temps*. Par exemple pour la taille d'une fonte, il faut définir un minimum et un maximum, pour garantir la lisibilité sur tous les écrans.
 
@@ -33,9 +33,11 @@ La solution est `clamp()` : cette fonction CSS combine les propriétés de `min(
 2. une valeur centrale idéale.
 3. une taille maximum. 
 
-Le mot *clamp*, en anglais, désigne cet outil:
+Le mot *clamp*, en anglais, désigne cet outil :
 
 ![Un serre-joints](img/clamp/clamp.jpg)
+
+Il existe même [en emoji](https://emojipedia.org/clamp/): 🗜️
 
 Un exemple de taille de fonte "responsive", définie avec clamp:
 
