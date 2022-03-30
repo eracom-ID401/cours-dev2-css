@@ -4,7 +4,7 @@ title: GIT - intro
 permalink: git1.html
 ---
 
-Premier volet du cours sur GIT. :-)
+Premier volet du cours sur GIT.
 
 ## Questions fondamentales Git
 
