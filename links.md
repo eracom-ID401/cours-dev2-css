@@ -4,8 +4,6 @@ title: 🚑 Aide
 permalink: aide.html
 ---
 
-## Aide
-
 Quelques vidéos pour aider à debugger le code.
 
 ## Code plus lisible
@@ -30,5 +28,5 @@ Observations et debuggage d'un projet avec Grid Layout :
 
 VSCode – désactiver les popups :
 
-<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/ChWf_yDSv3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 1 / 1;" src="https://www.youtube-nocookie.com/embed/ChWf_yDSv3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
