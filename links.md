@@ -10,7 +10,7 @@ Quelques vidéos pour aider à debugger le code.
 
 Quelques conseils pour améliorer la lisibilité du code :
 
-<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/u-VCh1wimDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3;" src="https://www.youtube-nocookie.com/embed/u-VCh1wimDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Observations Flexbox
 
