@@ -6,9 +6,7 @@ permalink: podsie.html
 
 Dans ce cours, nous utilisons un outil en ligne pour vous aider dans l'apprentissage du code: **Podsie**. 
 
-## Lien: [student.podsie.org](https://student.podsie.org/)
-
-Vous utiliserez ce lien – [student.podsie.org](https://student.podsie.org/) – pour vous faire un compte (avec votre adresse email @eduvaud.ch), puis pour vous connecter à votre interface Podsie.
+<span style="font-size:2rem">Lien: [student.podsie.org](https://student.podsie.org/)</span>
 
 Podsie est un outil pour élèves et enseignant-es, visant à appliquer des méthodes d'apprentissage validées par les sciences de l'éducation. Objectif: vous aider à **mémoriser** les connaissances.
 
