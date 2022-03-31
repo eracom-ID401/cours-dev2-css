@@ -33,7 +33,7 @@ Le cours est structuré en 5 chapitres.
 
 CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions ont révolutionné la manière de penser les mises en page CSS (et ont rendu obsolètes tous les livres écrits auparavant). Nous allons étudier quelques unes des nouveautés les plus significatives: **Grid Layout** (module de mise en page), et les unités **Minmax** et **Clamp** (qui permettent de nouvelles approches du responsive).
 
-- **[Unités et Clamp](units.html)** (2 février)
+- [Unités et Clamp](units.html) (2 février)
 - [CSS Grid Layout](grid-layout.html) (9 février)
 - [Grid Layout avancé](grid-advanced.html) (16 février)
 
@@ -44,21 +44,21 @@ Le 9 mars aura lieu la première évaluation.
 Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du web: il s'agit de [GIT](https://cours-web.ch/git/), un logiciel de versionnage.
 
 - [GIT : Introduction](git1.html) (16 mars)
-- GIT : Collaborer avec Git (23 mars)
+- [GIT : Collaborer avec Git](git2.html) (23 mars)
 
-### Chapitre 3 : A11Y
+### Chapitre 3 : Médias
 
-Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre les interactions en toutes circonstances.
-
-- A11Y (30 mars)
-- Input Forms (13 avril)
+- [Vidéo]() (30 mars)
+- SVG, format vectoriel du web (6 avril)
 
 Le 13 avril aura lieu la deuxième évaluation.
 
-### Chapitre 4 : Médias
+### Chapitre 4 : A11Y
 
-- Audio et Video (30 mars)
-- SVG, format vectoriel du web (6 avril)
+Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre les interactions en toutes circonstances.
+
+- A11Y (4 mai)
+- Input Forms (11 mai)
 
 ### Chapitre 5 : la magie du CSS
 

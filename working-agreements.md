@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ℹ️ – Working Agreements
-permalink: working-acreements.html
+permalink: working-agreements.html
 ---
 
 ## Les *Working Agreements*
@@ -18,6 +18,8 @@ Voilà [un exemple de document-type](https://wikiagile.cesi.fr/index.php?title=C
 
 ## Les phrases développées le 30 mars
 
+![](img/working-agreements.jpg)
+
 - **Communication** - Quand il y a des incompréhensions, on organise une réunion express avec tout le monde puis on discute de ce qui ne va pas.
 - **Organisation** - L'organisation permet de gagner du temps et de mieux gérer son projet à temps.
 - **Coopération** - Coopérer ça aide à s'entraider pour avancer. Seul on va vite mais à plusieurs on va plus loin.
@@ -26,4 +28,3 @@ Voilà [un exemple de document-type](https://wikiagile.cesi.fr/index.php?title=C
 
 Nous pourrons lors d'une prochaine séance valider ces propositions, et les affiner si nécessaire.
 
-![](img/working-agreements.jpg)
