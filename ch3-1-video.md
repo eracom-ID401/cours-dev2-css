@@ -1,48 +1,87 @@
 ---
 layout: page
-title: GIT - suite
-permalink: git2.html
+title: Audio et Video
+permalink: video.html
 ---
 
-Deuxième cours sur GIT.
+Cours du 30 mars.
 
-## Rappel terminologie GIT
+Déroulement:
 
-Nous faisons un exercice de rappel sur les espaces / commandes de Git. 
+- 5 minutes de révision Podsie 🧠 (nouvelles questions sur Git)
+- Création par chaque élève de deux "Issues" pour le challenge #5. Chaque élève va devoir s'attribuer un challenge d'un autre élève et le résoudre.
+- Informations sur le sujet du jour: la vidéo sur le web.
 
-[Lien vers le Figma](https://www.figma.com/file/RNXMGIL9UQL1dDFnXOQgK7/Terminologie-Git-%5BID401%5D?node-id=0%3A1) qui montre les réponses.
+## Sur la création des Issues sur Github
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRNXMGIL9UQL1dDFnXOQgK7%2FTerminologie-Git-%255BID401%255D%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+Les "Issues" sont une manière de communiquer autour d'un projet Github. On crée des issues pour: des bugs, des fonctionalités à ajouter, des besoins d'utilisateurs.
 
-Des explications sur les "bases de Git" se trouvent dans le support de cours général: [cours-web.ch/git/bases.html](https://cours-web.ch/git/bases.html)
+Un contributeur peut s'attribuer une "Issue". On peut faire des commentaires.
 
-## Analyse d'une vidéo sur le versionnage
+Voici [un exemple](https://github.com/eracom-ID401/Site-Skateb-b--Thomas/issues/1):
 
-Lien de la vidéo : [https://vimeo.com/361939681](https://vimeo.com/361939681)
+![](img/git/issue-liens.png)
 
-<iframe src="https://player.vimeo.com/video/361939681?h=d0c11df660&color=ff5c50&title=0&byline=0&portrait=0" width="100%" style="aspect-ratio: 16/9" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+## Les essentiels de la vidéo sur le web
 
-On prend cette vidéo comme exemple pour mieux comprendre le **workflow Git**.
+Deux manières d'intégrer de la vidéo:
 
-Document commun d'analyse:
+### 1) En HTML, avec une balise `<video>`
 
-[Lien vers le Figma](https://www.figma.com/file/6iSSAiJJSwauTaTbihqDJx/Git-%E2%80%93-Analyse-Vid%C3%A9o-%5BID401%5D)
+Un exemple:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6iSSAiJJSwauTaTbihqDJx%2FGit-%25E2%2580%2593-Analyse-Vid%25C3%25A9o-%255BID401%255D" allowfullscreen></iframe>
+```html
+<video width="100%" height="auto" controls controlsList="nodownload" poster="video/personal-letter.jpg">
+  <source src="video/personal-letter.mp4" type="video/mp4">
+</video>
+```
 
-## Le challenge 5
+Comme on le voit, l'élément HTML `<video>` prend plusieurs attributs (par exemple `poster` pour définir l'image affichée avant la lecture).
 
-Le premier challenge lié à Git (Challenge N°4 "Git Push") a consisté à publier son site web sur Github.
+Elle contient une balise `<source>` qui indique le fichier vidéo.
 
-Le challenge 5, "GitHub Issues", demande de créer deux "Issues" décrivant des améliorations à apporter à son site:
+[L'article MDN donne plus d'explications](https://developer.mozilla.org/fr/docs/Web/HTML/Element/video), ainsi que la liste des attributs disponibles.
 
-> Le but de ce challenge est de pratiquer la collaboration avec Github :
-> - Définissez deux améliorations à apporter à votre site.
-> - Pour chacune, créez une description dans l'onglet Issues (de votre projet Github).
-> Par la suite, l'une de ces issues sera résolue par vous-même, l'autre par l'un-e de vos camarades.
-> La résolution, via une *Pull Request*, fera l'objet du Challenge #6.
+### 2) Depuis une plateforme comme Youtube, Vimeo...
 
-## Questions GIT sur Podsie
+Ces services d'hébergements permettent d'intégrer une vidéo avec un code. Il faut cliquer sur *Share* (*Partager*), puis choisir *Embed* (*Intégrer*).
 
-Un assignment a été créé, "[Git Basics](https://student.podsie.org/assignments/4673)" avec cinq questions sur Git.
+![Intégration depuis Youtube](img/video/youtube-share-dp.gif)
 
+Voici un exemple de code pour une vidéo Youtube:
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/68iQAo2XXtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
+### Rendre la vidéo responsive
+
+On voit dans cet exemple que cette vidéo a une taille fixe, en hauteur et largeur (560 sur 315 pixels).
+
+Il est possible de rendre ce code totalement responsive en l'éditant de la manière suivante: 
+
+```html
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/68iQAo2XXtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
+Les changements:
+
+- On a remplacé l'unité de largeur par 100%.
+- On a supprimé l'unité de hauteur, et on a appliqué le style CSS `aspect-ratio: 16 / 9`.
+
+Voir [la référence MDN Web Docs sur la propriété aspect-ratio](https://developer.mozilla.org/fr/docs/Web/CSS/aspect-ratio). C'est une propriété CSS récente supportée par les navigateurs depuis 2021.
+
+## Ressources vidéo
+
+Des sources de fonds vidéo ("royalty-free background videos") pour site web:
+
+- [Pexels](https://www.pexels.com/search/videos/background/)
+- [Videezy](https://www.videezy.com/free-video/background)
+- [Mixkit](https://mixkit.co/free-video-backgrounds/)
+- [Coverr](https://coverr.co/)
+
+## Les *Working Agreements*
+
+En fin de séance, les élèves ont consacré 5 minutes à développer les mots-clés notés durant la séance de travail du 23 mars autour de Git (*communication, organisation, coopération, écoute, respect d'autrui*), pour en faire des "Working Agreements".
+
+➡️ Lire la page [Working Agreements](working-agreements.html).
