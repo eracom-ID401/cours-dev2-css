@@ -6,11 +6,13 @@ permalink: working-acreements.html
 
 ## Les *Working Agreements*
 
-Pendant la séance de travail du 23 mars 2022 autour de Git, les équipes ont produit cinq mots-clé: *communication, organisation, coopération, écoute, respect d'autrui*. Ces termes représentent des valeurs importantes pour une équipe de travail.
+Pendant la séance de travail du 23 mars 2022 autour de **Git**, les équipes ont produit cinq mots-clé: *communication, organisation, coopération, écoute, respect d'autrui*. Ces termes représentent des 🥇valeurs importantes pour une équipe de travail. 
 
-La proposition est de développer, à partir de ces mots, des "working agreements". En français, ce terme est traduit par "Accord de travail pour une équipe". 
+➡️ [Lien du document Figma](https://www.figma.com/file/6iSSAiJJSwauTaTbihqDJx/Git-%E2%80%93-Analyse-Vid%C3%A9o-%5BID401%5D?node-id=154%3A252).
 
-Dans la méthodologie de travail Agile, il est très recommandé qu'une équipe détermine en début de projet ses "Working Agreements" et les mette par écrit. Cela pose un cadre de fonctionnement, et permet de réagir à des actions qui iraient à l’encontre de ces accords.
+La proposition est de développer, à partir de ces mots, des "Working Agreements". En français, ce terme est traduit par "Accord de travail pour une équipe". 
+
+Dans la méthodologie de travail Agile, il est très recommandé qu'une équipe détermine en début de projet ses "Working Agreements" et les mette ✍️par écrit. Cela pose un cadre de fonctionnement, et permet de réagir à des actions qui iraient à l’encontre de ces accords😡.
 
 Voilà [un exemple de document-type](https://wikiagile.cesi.fr/index.php?title=Canevas_d%27Accord_de_Travail_pour_une_%C3%89quipe) pour mettre les accords par écrit.
 
