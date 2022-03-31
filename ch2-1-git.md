@@ -25,7 +25,7 @@ Selon Wikipédia 🌐: « quand on lui a demandé pourquoi il avait appelé son 
 - Permet de **synchroniser** un projet entre plusieurs collaborateurs. 
 - Permet de **fusionner** des modifications de plusieurs personnes.
 - Offre un **historique** précis de toutes les modifications d'un projet. On peut revenir facilement à un état précédent.
-- Aide à la **collaboration** 🤝.
+- Aide à la **collaboration**.
 
 Git a été inventé pour gérer des projets informatiques – du code. Mais ses avantages ont aussi été utilisés pour :
 
@@ -64,8 +64,8 @@ La commande **git commit** est centrale dans Git: c'est cette commande qui crée
 
 Comme le dit David Demaree dans *Git for Humans* 📕 : 
 
-- Un commit enregistre les modifications apportées aux fichiers figurant dans la base de données de Git: il indique par exemple qu'un fichier est passé de la version A à la version B.
-- Chaque commit est autonome: il ne référence pas seulement ce qui a changé, mais aussi tout ce qui compose l'état de votre projet à un moment donné.
+- Un commit enregistre les modifications apportées aux fichiers figurant dans la base de données de Git: il indique par exemple qu'un fichier est passé de la version 🅰️ à la version 🅱️.
+- Chaque commit est autonome: il ne référence pas seulement ce qui a changé, mais aussi *tout* ce qui compose l'état de votre projet à un moment donné.
 
 ### Les états des fichiers
 
@@ -101,7 +101,7 @@ L’utilisation standard de Git se passe comme suit :
 Publier votre site sur Github, dans l'organisation ID401. Pour cela:
 
 1. Créez un utilisateur sur Github.
-2. Rejoignez l'organisation eracom-ID402: [https://github.com/eracom-id402](https://github.com/eracom-id402)
+2. Rejoignez l'organisation eracom-ID401: [https://github.com/eracom-id401](https://github.com/eracom-id401)
 3. Installez Github Desktop: [https://desktop.github.com/](https://desktop.github.com/)
 4. Faites un "Push" de votre repository vers Github, pour le rendre public.
 
