@@ -4,7 +4,7 @@ title: ℹ️ – Podsie
 permalink: podsie.html
 ---
 
-Dans ce cours, nous utiliserons un outil en ligne pour vous aider dans l'apprentissage du code: **Podsie**. 
+Dans ce cours, nous utilisons un outil en ligne pour vous aider dans l'apprentissage du code: **Podsie**. 
 
 ## Lien: [student.podsie.org](https://student.podsie.org/)
 
@@ -12,11 +12,11 @@ Vous utiliserez ce lien – [student.podsie.org](https://student.podsie.org/) �
 
 Podsie est un outil pour élèves et enseignant-es, visant à appliquer des méthodes d'apprentissage validées par les sciences de l'éducation. Objectif: vous aider à **mémoriser** les connaissances.
 
-Certes, on peut aujourd'hui se reposer sur les nombreuses ressources en ligne. Mais pour atteindre un niveau professionnel, et travailler vite et sans stress, la mémorisation de nombreuses informations est vitale. Pour vous aider à accomplir cette mémorisation, il convient d'utiliser les meilleurs outils à disposition.
+Certes, on peut aujourd'hui se reposer sur les nombreuses ressources en ligne. Mais pour atteindre un niveau professionnel, et travailler vite et sans stress, la mémorisation de nombreuses informations est vitale.
 
 ### Les stratégies d'apprentissage efficaces
 
-Les recherches récentes ont mis en évidence deux stratégies très efficaces pour mieux mémoriser, et contrer les effets de la "courbe de l'oubli":
+La recherche a mis en évidence deux stratégies très efficaces pour mieux mémoriser, et pour contrer les effets de la "courbe de l'oubli":
 
 - Retrieval Practice
 - Spaced Practice
@@ -46,7 +46,7 @@ Cela suffit pour les faire entrer dans votre mémoire à long terme. L'espacemen
 
 Voici comment Podsie vous aidera à appliquer ces stratégies.
 
-- L'enseignant·e saisit dans Podsie des questions relatives aux cours, et programme des moments où vous répondrez à ces questions. Ces questions seront automatiquement ajoutées à votre liste de questions personnelle (*"Personal Deck"*).
+- L'enseignant·e saisit dans Podsie des questions relatives aux cours, et programme des moments où vous répondrez à ces questions (*Assignments*). Ces questions seront automatiquement ajoutées à votre liste de questions personnelle (*"Personal Deck"*).
 - Pour les questions **non-maîtrisées**, Podsie va vous les reposer une fois par jour.
 - Une fois les questions **maîtrisées**, Podsie va vous les reposer à des intervalles plus espacés. L'algorithme définit la fréquence optimale pour faire entrer les informations dans votre mémoire permanente.
 
