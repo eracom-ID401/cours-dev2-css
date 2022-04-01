@@ -40,6 +40,10 @@ Elle contient une balise `<source>` qui indique le fichier vidéo.
 
 [L'article MDN donne plus d'explications](https://developer.mozilla.org/fr/docs/Web/HTML/Element/video), ainsi que la liste des attributs disponibles.
 
+Cela donne un "lecteur par défaut" dont le style visuel est défini par le navigateur.
+
+On peut aussi recourir à des "media player" qui vont faire un habillage visuel CSS, comme comme [Video.js](https://videojs.com/), [Plyr](https://plyr.io/), [MediaElement](http://www.mediaelementjs.com/)...
+
 ### 2) Depuis une plateforme comme Youtube, Vimeo...
 
 Ces services d'hébergements permettent d'intégrer une vidéo avec un code. Il faut cliquer sur *Share* (*Partager*), puis choisir *Embed* (*Intégrer*).
