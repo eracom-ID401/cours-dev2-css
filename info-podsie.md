@@ -25,8 +25,9 @@ Plutôt que relire les informations de manière passive, faites ressortir les in
 
 Exemple: beaucoup de personnes pensent qu'il est utile de relire un texte plusieurs fois et de le 🖍surligner en plusieurs couleurs. En réalité, cela n'aide pas beaucoup à mémoriser. Il est plus efficace de:
 
-- Se mettre devant une **feuille blanche** et écrire, de mémoire, tout ce dont on se souvient sur un sujet.
-- Expliquer votre sujet à une autre personne, sans vous servir de support.
+- 🗒 Se mettre devant une **feuille blanche** et écrire, de mémoire, tout ce dont on se souvient sur un sujet.
+- 🌳 Même chose, mais le faire sous forme de *mindmap* (arborescence).
+- 💁‍♀️ Expliquer votre sujet à une autre personne (une amie, votre grand-mère, un enfant, votre chat...), sans vous servir de support.
 
 Cela oblige votre cerveau à accéder à l'information que vous avez "enregistrée", d'où le terme *"retrieval practice"*.
 
@@ -45,8 +46,8 @@ Cela suffit pour les faire entrer dans votre mémoire à long terme. L'espacemen
 Voici comment Podsie vous aidera à appliquer ces stratégies.
 
 - L'enseignant·e saisit dans Podsie des questions relatives aux cours, et programme des moments où vous répondrez à ces questions (*Assignments*). Ces questions seront automatiquement ajoutées à votre liste de questions personnelle (*"Personal Deck"*).
-- Pour les questions **non-maîtrisées**, Podsie va vous les reposer une fois par jour.
-- Une fois les questions **maîtrisées**, Podsie va vous les reposer à des intervalles plus espacés. L'algorithme définit la fréquence optimale pour faire entrer les informations dans votre mémoire permanente.
+- Pour les questions ⚠️**non-maîtrisées**, Podsie va vous les reposer une fois par jour.
+- Une fois les questions 💪**maîtrisées**, Podsie va vous les reposer à des intervalles plus espacés. L'algorithme définit la fréquence optimale pour faire entrer les informations dans votre mémoire permanente.
 
 Podsie vous aide ainsi à espacer de manière optimale la réactivation, et va vous proposer des questions personnalisées pour vous faire progresser là où vous avez des lacunes.
 
@@ -55,8 +56,6 @@ Podsie aidera également l'enseignant·e à détecter quels sont les domaines qu
 ## Liens
 
 Se connecter: [student.podsie.org](https://student.podsie.org/)
-
-Un premier "Assignment" pour le 1er jour: [https://student.podsie.org/assignments/1707](https://student.podsie.org/assignments/1707)
 
 Pour en savoir plus:
 
