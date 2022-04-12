@@ -18,9 +18,11 @@ Voilà [un exemple de document-type](https://wikiagile.cesi.fr/index.php?title=C
 
 ## Les phrases développées le 30 mars
 
+Le 30 mars, en fin de séance, les élèves ont consacré 5 minutes à développer les mots-clés notés durant la séance de travail du 23 mars autour de Git (*communication, organisation, coopération, écoute, respect d'autrui*), pour en faire des "Working Agreements".
+
 ![](img/working-agreements.jpg)
 
-Le 30 mars, pendant les dernières minutes du cours, les cinq termes ont été affinés en phrases:
+Les phrases produites:
 
 - **Communication** - Quand il y a des incompréhensions, on organise une réunion express avec tout le monde puis on discute de ce qui ne va pas.
 - **Organisation** - L'organisation permet de gagner du temps et de mieux gérer son projet à temps.
