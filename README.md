@@ -1,11 +1,11 @@
 # Développement d’interfaces 2 – CSS
 
-Dates: du 24 janvier au 22 juin  
-Horaire: mercredi – 11h00 à 12h30  
-Classe: ID401  
+📅 Dates: du 24 janvier au 22 juin  
+⏰ Horaire: mercredi – 11h00 à 12h30  
+🏫 Classe: ID401  
 Acronyme cours: EEDEV  
 Catégorie: Elaboration du design  
-Enseignant: Manuel Schmalstieg  
+👨‍🏫 Enseignant: Manuel Schmalstieg  
 Lien: [https://id401.ch/cours-dev2-css/](https://id401.ch/cours-dev2-css/)
 
 ## Introduction
@@ -37,7 +37,7 @@ CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions
 - [CSS Grid Layout](grid-layout.html) (9 février)
 - [Grid Layout avancé](grid-advanced.html) (16 février)
 
-Le 9 mars aura lieu la première évaluation.
+Le 📅 9 mars aura lieu la première évaluation.
 
 ### Chapitre 2 : GIT
 
@@ -51,20 +51,20 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 - [Vidéo]() (30 mars)
 - SVG, format vectoriel du web (6 avril)
 
-Le 13 avril aura lieu la deuxième évaluation.
+Le 📅 13 avril aura lieu la deuxième évaluation.
 
-### Chapitre 4 : A11Y
+### Chapitre 4 : Sélecteurs et logique du CSS
 
-Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre les interactions en toutes circonstances.
+Ces cours porteront sur les sélecteurs CSS.
 
-- A11Y (4 mai)
-- Input Forms (11 mai)
+- Sélecteurs (4 mai)
+- Spécificité (11 mai)
+- Generated Content (18 mai)
 
 ### Chapitre 5 : la magie du CSS
 
 Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons des modules CSS qui ont pour rôle d'étendre les possibilités créatives: 
 
-- Generated Content (18 mai)
 - CSS Transforms (25 mai)
 - CSS Animations (8 juin)
 - CSS Shapes (15 juin)
