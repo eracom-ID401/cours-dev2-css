@@ -14,11 +14,13 @@ La proposition est de développer, à partir de ces mots, des "Working Agreement
 
 Dans la méthodologie de travail Agile, il est très recommandé qu'une équipe détermine en début de projet ses "Working Agreements" et les mette ✍️par écrit. Cela pose un cadre de fonctionnement, et permet de réagir à des actions qui iraient à l’encontre de ces accords.
 
-Voilà [un exemple de document-type](https://wikiagile.cesi.fr/index.php?title=Canevas_d%27Accord_de_Travail_pour_une_%C3%89quipe) pour mettre les accords par écrit.
+Voilà [un exemple de document-type](https://wikiagile.cesi.fr/index.php?title=Canevas_d%27Accord_de_Travail_pour_une_%C3%89quipe) pour mettre les accords par écrit (*Working Agreement Canvas*, par Avi Schneier). 
 
 ## Les phrases développées le 30 mars
 
 ![](img/working-agreements.jpg)
+
+Le 30 mars, pendant les dernières minutes du cours, les cinq termes ont été affinés en phrases:
 
 - **Communication** - Quand il y a des incompréhensions, on organise une réunion express avec tout le monde puis on discute de ce qui ne va pas.
 - **Organisation** - L'organisation permet de gagner du temps et de mieux gérer son projet à temps.
