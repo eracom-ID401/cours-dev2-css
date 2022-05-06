@@ -48,8 +48,8 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 
 ### Chapitre 3 : Médias
 
-- [Vidéo]() (30 mars)
-- SVG, format vectoriel du web (6 avril)
+- [Vidéo](video.html) (30 mars)
+- [SVG, format vectoriel du web](svg.html) (6 avril)
 
 Le 📅 13 avril aura lieu la deuxième évaluation.
 
