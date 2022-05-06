@@ -22,11 +22,11 @@ Agenda du cours:
 | 06 avr  | SVG               |   |
 | 13 avr  | **Evaluation #2** |    |
 |         | *Vacances*        |     |
-| 04 mai  | A11Y              |       |
-| 11 mai  | Input Forms |  Reger, Nina |
-| 18 mai  | Generated Content |  Léo, Besim |
-| 25 mai  | CSS Transforms    | Jérémie, Alice |
-| 01 juin | CSS Animations    | Elio, Thomas    |
-| 08 juin | **Evaluation #3** |  Ella, Valentin |
-| 15 juin | CSS Shapes        |  Maxim, Julien |
+| 04 mai  | Sélecteurs        |       |
+| 11 mai  | Spécificité       |   |
+| 18 mai  | Generated Content |   |
+| 25 mai  | CSS Transforms    |  |
+| 01 juin | CSS Animations    |     |
+| 08 juin | **Evaluation #3** |   |
+| 15 juin | CSS Shapes        |   |
 | 22 juin | Debrief           |    |

@@ -37,11 +37,11 @@ CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions
 - [CSS Grid Layout](grid-layout.html) (9 février)
 - [Grid Layout avancé](grid-advanced.html) (16 février)
 
-Le 📅 9 mars aura lieu la première évaluation.
+Le 📅 9 mars : première évaluation.
 
 ### Chapitre 2 : GIT
 
-Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du web: il s'agit de [GIT](https://cours-web.ch/git/), un logiciel de versionnage.
+Apprendrez d'un outil devenu incontournable dans les métiers du web: il s'agit de [GIT](https://cours-web.ch/git/), un logiciel de versionnage.
 
 - [GIT : Introduction](git1.html) (16 mars)
 - [GIT : Collaborer avec Git](git2.html) (23 mars)
@@ -51,7 +51,7 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 - [Vidéo](video.html) (30 mars)
 - [SVG, format vectoriel du web](svg.html) (6 avril)
 
-Le 📅 13 avril aura lieu la deuxième évaluation.
+Le 📅 13 avril: [deuxième évaluation](eval-2.html).
 
 ### Chapitre 4 : Sélecteurs et logique du CSS
 
