@@ -59,21 +59,23 @@ Ces cours porteront sur les sélecteurs CSS.
 
 - Sélecteurs (4 mai)
 - Spécificité (11 mai)
-- Generated Content (18 mai)
 
-### Chapitre 5 : la magie du CSS
+### Chapitre 5 : Finalisation
 
-Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons des modules CSS qui ont pour rôle d'étendre les possibilités créatives: 
+Les dernières leçons seront consacrées à la finition du travail pratique : 
 
-- CSS Transforms (25 mai)
-- CSS Animations (8 juin)
-- CSS Shapes (15 juin)
+- Travail pratique (18 mai)
+- Travail pratique (25 mai)
+- Travail pratique (1er juin)
 
-Le 8 juin aura lieu la troisième évaluation.
+Le 8 juin a lieu la troisième évaluation.
+
+- **Evaluation #3** (8 juin)
+- Feedbacks (15 juin)
 
 ## Evaluations
 
-Trois évaluations seront réalisées au courant du semestre. Chacune comportera trois aspects:
+Trois évaluations sont réalisées au courant du semestre. Chacune comportera trois aspects:
 
 - Réaliser les **challenges** proposés à chaque cours (1/3).
 - Un **Test théorique** (reprend les questions des quiz de révision hebdomadaires sur Podsie) (1/3).
