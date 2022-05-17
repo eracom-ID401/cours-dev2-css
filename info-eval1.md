@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ℹ️ – Evaluations
+title: ℹ️ – Evaluation 1
 permalink: evaluations.html
 ---
 
@@ -27,7 +27,7 @@ Un journal de bord personnel, dans lequel vous collectez les liens des Challenge
 
 ## Contenu de l'évaluation du 9 mars
 
-Cette évaluation a porté sur les éléments suivants:
+Cette première évaluation a porté sur les éléments suivants:
 
 - **Challenges** 1 à 3 (4pts chacun)
 - **Test théorique** couvrant les matières des 4 premiers cours, composé de 12 questions similaires à celles dans Podsie.
