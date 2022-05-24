@@ -8,8 +8,8 @@ Information sur l'évaluation du 13 avril 2022.
 
 Cette 2<sup>ème</sup> évaluation porte sur les éléments suivants:
 
-1. 👩‍💻 Réaliser l'exercice "Git et vidéo"  - 6pts
-2. 💪 Réaliser les challenges 4 et 5 - 4pts
+1. 👩‍💻 Réaliser l'exercice "Git et vidéo"  - 3pts
+2. 💪 Réaliser les challenges 4 et 5 - 3pts
 3. 📑 Documentation personnelle sur Git (et vidéo, SVG) - 2pts
 
 ## 1) Exercice "Git et vidéo"
