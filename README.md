@@ -77,8 +77,8 @@ Le 8 juin a lieu la troisième évaluation.
 
 Trois évaluations sont réalisées au courant du semestre. Chacune comportera trois aspects:
 
-- Réaliser les **challenges** proposés à chaque cours (1/3).
-- Un **Test théorique** (reprend les questions des quiz de révision hebdomadaires sur Podsie) (1/3).
-- Présenter votre **documentation personnelle** (1/3).
+- Réaliser les **challenges** proposés à chaque cours.
+- Un **Test théorique ou pratique**.
+- Présenter votre **documentation personnelle**.
 
 Pour plus de précisions, voir [Evaluations](evaluations.html).
