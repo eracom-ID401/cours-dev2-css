@@ -19,7 +19,7 @@ La recherche a mis en évidence deux stratégies très efficaces pour mieux mém
 - Retrieval Practice
 - Spaced Practice
 
-#### Stratégie #1: Retrieval Practice 📤
+#### Stratégie N°1: Retrieval Practice 📤
 
 Plutôt que relire les informations de manière passive, faites ressortir les informations de votre cerveau en faisant **un effort mental**. Le meilleur moyen est de *se questionner*: cela oblige votre 🧠 cerveau à retrouver l'information, ce qui consolide les connexions neurales et renforce la mémorisation.
 
@@ -31,7 +31,7 @@ Exemple: beaucoup de personnes pensent qu'il est utile de relire un texte plusie
 
 Cela oblige votre cerveau à accéder à l'information que vous avez "enregistrée", d'où le terme *"retrieval practice"*.
 
-#### Stratégie #2: Spaced Practice ⏰
+#### Stratégie N°2: Spaced Practice ⏰
 
 **Espacer dans le temps** les séances d'apprentissage. Les nouvelles informations devraient être réactivées... 
 
